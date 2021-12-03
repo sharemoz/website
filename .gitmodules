@@ -1,0 +1,8 @@
+[submodule "sharemozwebsite/sharemoz.github.io"]
+	path = sharemozwebsite/sharemoz.github.io
+	url = https://github.com/sharemoz/sharemoz.github.io.git
+	branch = main
+[submodule "sharemozwebsite/public"]
+	path = sharemozwebsite/public
+	url = https://github.com/sharemoz/sharemoz.github.io.git
+	branch = main
