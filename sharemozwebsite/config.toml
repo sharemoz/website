@@ -1,0 +1,4 @@
+baseURL = "https://sharemoz.github.io/"
+languageCode = "en-us"
+title = "ShareMoz"
+theme = "novela"
